@@ -1,8 +1,11 @@
 # Mortero
 
+
 Proyecto que consta en crear una simulación en realidad virtual mediante Unity, para capacitar personas en el uso de un Mortero.
 
+
 Objetivos
+
 -Configurar la rotación en ambos ejes del cañón del mortero
 
 -Configurar la trayectoria correspondiente al proyectil
