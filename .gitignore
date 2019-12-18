@@ -21,6 +21,7 @@
 
 # Ignore Sandbox folders
 /[Aa]ssets/**/Sandbox/
+/[Aa]ssets/**/Sandbox.meta/
 
 # Visual Studio cache directory
 .vs/
